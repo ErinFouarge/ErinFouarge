@@ -1,6 +1,6 @@
 # Hello, I'm Erin 👋
 
-Master’s student in Computer Science (Data Science focus) based in Belgium.  
+Master’s student in Computer Science (Data Science focus) based in Namur (Belgium).  
 Passionate about development and building practical, impactful applications across web, mobile, and backend.
 
 ## 🚀 Selected Professional Projects
